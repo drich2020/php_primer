@@ -24,6 +24,8 @@
         echo "<h1>My Age Is: $age </h1>";
     ?>
     <button type="button" class="btn btn-dark">Click me!</button>
+    <button type="button" class="btn btn-dark">Click me!</button>
+    <button type="button" class="btn btn-dark">Click me!</button>
 
 
     <?php require 'Includes/footer.php' ?>
